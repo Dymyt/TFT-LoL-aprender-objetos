@@ -7,3 +7,6 @@ Este código sirve para generar tests de los objetos de TFT, tanto para averigua
 Añadir en el futuro:
 1)Interfaz gráfica con imágenes.
 2)Clase de campeones.
+
+
+![](SHOTI-TFT-2020-01-15-12-22-00.gif)
