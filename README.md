@@ -1,7 +1,7 @@
 # TFT-LoL-aprender-objetos
 Aprender objetos y sus combinaciones en League of Legends TFT.
 
-Este programa está compuesto de "aprenderTFTShell.py", un programa a través de la terminal que genera tests de objetos y acepta inputs del usuario. E "Interfaz Gráfica.py" que hace lo mismo pero a través de una interfaz.
+Este repositorio está compuesto de "aprenderTFTShell.py", un programa a través de la terminal que genera tests de objetos y acepta inputs del usuario. E "Interfaz Gráfica.py" que hace lo mismo pero a través de una interfaz.
 
 La clase "combinaciones.py" sirve para albergar los métodos y la propia creación de los Objetos. La clase "funcionesInterfaz.py" sirve como back end de la interfaz gráfica.
 
